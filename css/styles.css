@@ -25,5 +25,9 @@ width: 50%;
   font-family: sans-serif;
   text-decoration: underline;
   color: gray;
+}
 
+@media screen and (max-width: 1200px) {
+  body {background-color: black;
+  color: white;}
 }
